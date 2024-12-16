@@ -1,4 +1,4 @@
-# Reinforcement Learning and Compilers Resources  
+# RLC - Reinforcement Learning and Compilers Resources  
 ## Description 
 Different resources, courses, projects and markdown notes that I've used to to learn Deep and Classical Reinforcement Learning + MIT Introduction to Deep Learning course. I'm simply sharing my learning journey, given that I want to dive deep into reinforcement learning compiler optimization, so I hope it helps!
 ## Contents
