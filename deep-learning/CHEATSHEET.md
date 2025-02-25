@@ -865,9 +865,6 @@ An easy way to assess a biased model (classifier for example) is if this model c
       - **grad** (Gradient computation)
     - **torch.utils** (Utility functions)
       - **DataLoader** (Data batching and loading)
-    - **torchvision** (Computer Vision models and datasets)
-      - **models** (Pretrained models like ResNet, VGG)
-      - **datasets** (Standard datasets like CIFAR-10, ImageNet)
     - **torch.cuda** (GPU operations)
       - **Tensor.cuda()** (Move tensor to GPU)
       - **torch.nn.DataParallel** (Parallelism across multiple GPUs)
@@ -876,4 +873,7 @@ An easy way to assess a biased model (classifier for example) is if this model c
     - **models** (Pretrained models like ResNet, VGG)
     - **datasets** (CIFAR-10, COCO, etc.)
     - **transforms** (Data preprocessing and augmentation)
+
+  - **torchaudio**
+  - **torchtext**
 
